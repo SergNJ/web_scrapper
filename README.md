@@ -1,2 +1,2 @@
 # web_scrapper
-Web scrapper - lists all found URLs and saves attachements to your computer.
+Web scrapper - lists all found hyperlinks and saves pictures and *.pdf *.zip to your computer.
